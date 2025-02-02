@@ -36,7 +36,7 @@ This project focuses on computing semantic similarity between text paragraphs us
 ### Usage
 Run the Jupyter Notebook to execute the analysis:
 ```bash
-jupyter notebook VardhanSinghRawat_102203268.ipynb
+jupyter notebook Krishkumar_102203848.ipynb
 ```
 
 ### Contributors
